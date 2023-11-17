@@ -1,2 +1,5 @@
 from tkinter import *
-print("Hello Wolrd")
+
+window = Tk()
+
+window.mainloop()
